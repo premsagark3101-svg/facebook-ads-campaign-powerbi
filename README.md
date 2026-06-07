@@ -1,4 +1,4 @@
-# FutureInterns-DataAnalytics-2
+
 Facebook Ad Campaign Analysis Dashboard
 This Power BI dashboard offers a detailed analysis of a Facebook advertising campaign, focusing on key performance metrics and audience insights. The visualizations provide a clear understanding of campaign effectiveness, spending, and conversion rates across different demographics and time periods.
 
